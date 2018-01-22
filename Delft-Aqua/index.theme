@@ -2,7 +2,7 @@
 Name=Delft-Aqua
 Inherits=Delft
 Comment=Continuation of Faenza icon theme with up to date app icons
-Directories=emblems/8,actions/16,animations/16,apps/16,categories/16,devices/16,emblems/16,mimetypes/16,places/16,places/16s,status/16,stock/16,actions/22,animations/22,apps/22,categories/22,devices/22,emblems/22,mimetypes/22,places/22,places/22s,status/22,stock/22,actions/24,animations/24,apps/24,categories/24,devices/24,emblems/24,mimetypes/24,places/24,places/24s,status/24,stock/24,actions/32,animations/32,apps/32,categories/32,devices/32,emblems/32,mimetypes/32,places/32,places/32s,status/32,stock/32,actions/48,animations/48,apps/48,categories/48,devices/48,emblems/48,mimetypes/48,places/48,status/48,stock/48,actions/64,animations/64,categories/64,devices/64,emblems/64,mimetypes/64,status/64,stock/64,actions/96,animations/96,apps/96,categories/96,devices/96,emblems/96,mimetypes/96,places/96,status/96,stock/96,actions/scalable
+Directories=emblems/8,actions/16,apps/16,categories/16,devices/16,emblems/16,mimetypes/16,places/16,status/16,stock/16,actions/22,apps/22,categories/22,devices/22,emblems/22,mimetypes/22,places/22,status/22,stock/22,actions/24,apps/24,categories/24,devices/24,emblems/24,mimetypes/24,places/24,status/24,stock/24,actions/32,apps/32,categories/32,devices/32,emblems/32,mimetypes/32,places/32,status/32,stock/32,actions/48,apps/48,categories/48,devices/48,emblems/48,mimetypes/48,places/48,status/48,stock/48,actions/64,categories/64,devices/64,emblems/64,mimetypes/64,status/64,stock/64,actions/96,apps/96,categories/96,devices/96,emblems/96,mimetypes/96,places/96,status/96,stock/96,actions/scalable
 
 [emblems/8]
 Size=8
@@ -12,11 +12,6 @@ Type=fixed
 [actions/16]
 Size=16
 Context=Actions
-Type=fixed
-
-[animations/16]
-Size=16
-Context=Animations
 Type=fixed
 
 [apps/16]
@@ -47,11 +42,6 @@ Type=fixed
 [places/16]
 Size=16
 Context=Places
-Type=fixed
-
-[places/16s]
-Size=16
-Context=Places
 Type=Scalable
 MinSize=8
 MaxSize=16
@@ -69,11 +59,6 @@ Type=fixed
 [actions/22]
 Size=22
 Context=Actions
-Type=fixed
-
-[animations/22]
-Size=22
-Context=Animations
 Type=fixed
 
 [apps/22]
@@ -104,11 +89,6 @@ Type=fixed
 [places/22]
 Size=22
 Context=Places
-Type=fixed
-
-[places/22s]
-Size=22
-Context=Places
 Type=Scalable
 MinSize=22
 MaxSize=22
@@ -126,11 +106,6 @@ Type=fixed
 [actions/24]
 Size=24
 Context=Actions
-Type=fixed
-
-[animations/24]
-Size=24
-Context=Animations
 Type=fixed
 
 [apps/24]
@@ -161,11 +136,6 @@ Type=fixed
 [places/24]
 Size=24
 Context=Places
-Type=fixed
-
-[places/24s]
-Size=24
-Context=Places
 Type=Scalable
 MinSize=24
 MaxSize=24
@@ -183,11 +153,6 @@ Type=fixed
 [actions/32]
 Size=32
 Context=Actions
-Type=fixed
-
-[animations/32]
-Size=32
-Context=Animations
 Type=fixed
 
 [apps/32]
@@ -218,11 +183,6 @@ Type=fixed
 [places/32]
 Size=32
 Context=Places
-Type=fixed
-
-[places/32s]
-Size=32
-Context=Places
 Type=Scalable
 MinSize=32
 MaxSize=32
@@ -240,11 +200,6 @@ Type=fixed
 [actions/48]
 Size=48
 Context=Actions
-Type=fixed
-
-[animations/48]
-Size=48
-Context=Animations
 Type=fixed
 
 [apps/48]
@@ -292,11 +247,6 @@ Type=fixed
 [actions/64]
 Size=64
 Context=Actions
-Type=fixed
-
-[animations/64]
-Size=64
-Context=Animations
 Type=fixed
 
 [categories/64]
