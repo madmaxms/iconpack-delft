@@ -15,7 +15,7 @@
    sodipodi:docname="desktop-magnifier.svg"
    inkscape:version="0.92.1 r">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#fefefe"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -40,33 +40,33 @@
        id="linearGradient3852">
       <stop
          id="stop3854"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3856"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <linearGradient
        id="linearGradient4384">
       <stop
          id="stop4386"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop4388"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <linearGradient
        id="linearGradient4367">
       <stop
          id="stop4369"
-         style="stop-color:#ffffff;stop-opacity:0.71755725"
+         style="stop-color:#fefefe;stop-opacity:0.71755725"
          offset="0" />
       <stop
          id="stop4371"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -90,11 +90,11 @@
        id="linearGradient3737">
       <stop
          id="stop3739"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3741"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <filter
@@ -195,7 +195,7 @@
          x="6"
          y="6"
          id="rect4357"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </clipPath>
     <radialGradient
        cx="48"
@@ -369,11 +369,11 @@
        id="linearGradient4384-6">
       <stop
          id="stop4386-3"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop4388-7"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -935,7 +935,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.21092367px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
     <path
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.40646484"
+       style="display:inline;fill:#fefefe;fill-opacity:1;stroke-width:0.40646484"
        d="m 24.7994,74.885863 c -0.878064,-0.666781 -1.560036,-2.549787 -1.250004,-3.451423 0.135192,-0.393161 3.279468,-3.774806 6.987276,-7.514762 l 6.741469,-6.79992 -1.160112,-2.345539 c -3.768085,-7.618327 -2.733001,-15.1868 2.910636,-21.282608 3.930804,-4.245733 8.171615,-6.109388 13.875347,-6.097612 16.667832,0.03442 25.096584,19.722136 13.602492,31.772481 -3.949908,4.141071 -10.01358,6.476791 -15.273852,5.883468 -2.572224,-0.290128 -6.163692,-1.418842 -8.038463,-2.526296 l -1.213944,-0.717099 -6.8364,6.793697 c -6.224197,6.18533 -6.963493,6.793694 -8.255869,6.793694 -0.78072,0 -1.720584,-0.228636 -2.088576,-0.508081 z M 58.103,57.335883 c 5.70972,-2.658459 8.455536,-9.34963 6.362472,-15.504498 -0.926412,-2.72422 -4.491444,-6.289245 -7.21566,-7.215662 -4.419816,-1.503031 -9.055224,-0.586489 -12.444263,2.460562 -2.863236,2.574294 -3.74034,4.45635 -3.962508,8.502615 -0.158664,2.889465 -0.05436,3.589285 0.818136,5.487275 1.42266,3.094938 2.836656,4.591306 5.682239,6.013265 3.31254,1.655293 7.538844,1.756023 10.759584,0.256443 z"
        id="path958" />
   </g>

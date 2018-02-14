@@ -27,7 +27,7 @@
          offset="0" />
       <stop
          id="stop5346"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <pattern
@@ -66,11 +66,11 @@
        id="linearGradient3960">
       <stop
          id="stop3962"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3964"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -138,11 +138,11 @@
        id="linearGradient3737">
       <stop
          id="stop3739"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3741"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <filter
@@ -174,11 +174,11 @@
        id="linearGradient3737-7">
       <stop
          id="stop3739-2"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3741-7"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -203,11 +203,11 @@
        id="linearGradient3737-40">
       <stop
          id="stop3739-7"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3741-9"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <clipPath
@@ -220,7 +220,7 @@
          x="6"
          y="6"
          id="rect3615-7"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </clipPath>
     <filter
        x="-0.192"
@@ -375,7 +375,7 @@
          offset="0" />
       <stop
          id="stop3241"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -639,7 +639,7 @@
        y="15"
        clip-path="url(#clipPath3613-2)"
        id="rect3171"
-       style="opacity:0.1;fill:url(#linearGradient2881);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794-6)" />
+       style="opacity:0.1;fill:url(#linearGradient2881);fill-opacity:1;fill-rule:nonzero;stroke:#fefefe;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794-6)" />
   </g>
   <g
      id="layer5">
@@ -654,7 +654,7 @@
        transform="translate(0,-100)"
        clip-path="url(#clipPath3837)"
        id="path3826"
-       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;filter:url(#filter3847)" />
+       style="opacity:0.5;fill:#fefefe;fill-opacity:1;stroke:none;display:inline;filter:url(#filter3847)" />
     <path
        d="m 48,18 c -0.60457,0 -1.19286,0.01496 -1.78125,0.03125 -0.0141,1.46e-4 -0.0484,-1.5e-4 -0.0625,0 C 37.8109,18.1202 33.94006,18.809798 29.28125,20.0625 17.97954,22.633894 18,27.661827 18,44 c 0,16.159612 -0.0295,20.465419 11.28125,23.9375 4.65881,1.252703 8.52965,1.942302 16.875,2.03125 0.0141,1.5e-4 0.0484,-1.46e-4 0.0625,0 C 46.80714,69.98503 47.39543,70 48,70 c 0.60457,0 1.19286,-0.01497 1.78125,-0.03125 0.0141,-1.46e-4 0.0484,1.5e-4 0.0625,0 C 58.1891,69.8798 62.05994,69.190203 66.71875,67.9375 78.02953,64.465419 78,60.159612 78,44 78,27.661827 78.0205,22.633894 66.71875,20.0625 c -4.65881,-1.252702 -8.52965,-1.9423 -16.875,-2.03125 -0.0141,-1.5e-4 -0.0484,1.46e-4 -0.0625,0 C 49.19286,18.01496 48.60457,18 48,18 z"
        inkscape:connector-curvature="0"
@@ -794,7 +794,7 @@
        d="m 21.0625,47.46875 c 0.05668,5.974195 0.287603,9.944582 1.15625,12.125 1.023926,2.570189 2.628544,3.793653 7.84375,5.40625 0.01012,0.0027 0.02114,-0.0027 0.03125,0 0.03047,0.0094 0.03178,0.02182 0.0625,0.03125 4.473531,1.198633 7.901734,1.819602 16.03125,1.90625 -0.08089,-8.62e-4 -0.04497,-0.0011 0.0625,0 a 3.0324182,3.0324182 0 0 1 0.0625,0 c 0.583898,0.01616 1.132985,0.03125 1.6875,0.03125 0.554515,0 1.103602,-0.01509 1.6875,-0.03125 a 3.0324182,3.0324182 0 0 1 0.0625,0 c 0.107467,-0.0011 0.143391,-8.62e-4 0.0625,0 8.129517,-0.08665 11.557719,-0.707617 16.03125,-1.90625 0.03237,-0.0087 0.06127,-0.02252 0.09375,-0.03125 5.215206,-1.612597 6.819824,-2.836061 7.84375,-5.40625 0.868647,-2.180418 1.09957,-6.150805 1.15625,-12.125 -0.09203,4.91488 -0.381987,8.181497 -1.15625,10.125 -1.023926,2.570189 -2.628544,3.793653 -7.84375,5.40625 -0.03248,0.0087 -0.06138,0.02258 -0.09375,0.03125 -4.473531,1.198633 -7.901733,1.8196 -16.03125,1.90625 0.08089,-8.62e-4 0.04497,-0.0011 -0.0625,0 a 3.0324182,3.0324182 0 0 0 -0.0625,0 c -0.583898,0.01616 -1.132985,0.03125 -1.6875,0.03125 -0.554515,0 -1.103602,-0.01509 -1.6875,-0.03125 a 3.0324182,3.0324182 0 0 0 -0.0625,0 c -0.107467,-0.0011 -0.143391,-8.62e-4 -0.0625,0 C 38.057984,64.85085 34.629781,64.229883 30.15625,63.03125 30.12553,63.02185 30.12422,63.0094 30.09375,63 30.08364,62.9973 30.07262,63.0027 30.0625,63 24.847294,61.387403 23.242676,60.163939 22.21875,57.59375 21.444487,55.650247 21.154527,52.38363 21.0625,47.46875 z"
        inkscape:connector-curvature="0"
        id="path3914"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+       style="opacity:0.3;fill:#fefefe;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
      id="layer6">

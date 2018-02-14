@@ -187,11 +187,11 @@
          offset="0.06176317" />
       <stop
          id="stop4324"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="0.93853289" />
       <stop
          id="stop4320"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -228,11 +228,11 @@
        id="linearGradient3687">
       <stop
          id="stop3689"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3691"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -338,11 +338,11 @@
        id="linearGradient3737">
       <stop
          id="stop3739"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3741"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <filter
@@ -501,11 +501,11 @@
        id="linearGradient3737-1">
       <stop
          id="stop3739-7"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3741-2"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -522,11 +522,11 @@
        id="linearGradient3737-6">
       <stop
          id="stop3739-1"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3741-5"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <clipPath
@@ -539,7 +539,7 @@
          x="6"
          y="6"
          id="rect3615"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </clipPath>
     <filter
        x="-0.192"
@@ -1078,7 +1078,7 @@
        x="11.785715"
        y="74"
        id="rect4832"
-       style="opacity:0.4;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="opacity:0.4;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        d="m 19,13 c -3.289406,0 -6,2.710594 -6,6 l 0,58 c 0,3.289406 2.710594,6 6,6 l 58,0 c 3.289406,0 6,-2.710594 6,-6 l 0,-58 c 0,-3.289406 -2.710594,-6 -6,-6 l -58,0 z m 0,4 58,0 c 1.142594,0 2,0.857406 2,2 l 0,58 c 0,1.142594 -0.857406,2 -2,2 l -58,0 c -1.142594,0 -2,-0.857406 -2,-2 l 0,-58 c 0,-1.142594 0.857406,-2 2,-2 z"
        id="rect3222"
@@ -1125,7 +1125,7 @@
        y="15"
        clip-path="url(#clipPath3613)"
        id="rect3171"
-       style="opacity:0.1;fill:url(#linearGradient2908);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794)" />
+       style="opacity:0.1;fill:url(#linearGradient2908);fill-opacity:1;fill-rule:nonzero;stroke:#fefefe;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794)" />
   </g>
   <g
      id="layer5">
@@ -1721,7 +1721,7 @@
       <path
          d="m -31.96875,40.0625 c 0.0049,0.670574 0.02557,1.278688 0.03125,1.9375 l 5.875,0 c 0.0056,-0.658823 0.02695,-1.266902 0.03125,-1.9375 l -5.9375,0 z m 0.03125,4.0625 c 0.02845,2.733648 0.07305,5.358369 0.125,7.875 l 5.625,0 c 0.05199,-2.51661 0.09557,-5.141352 0.125,-7.875 l -5.875,0 z m 0.1875,10 c 0.01507,0.611551 0.01413,1.277329 0.03125,1.875 l 5.4375,0 c 0.01593,-0.597688 0.01671,-1.263445 0.03125,-1.875 l -5.5,0 z"
          id="path4525"
-         style="opacity:0.10756974;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="opacity:0.10756974;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <rect
          width="2"
          height="28"
