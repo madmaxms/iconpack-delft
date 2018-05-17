@@ -12,8 +12,8 @@
    width="96"
    version="1.1"
    id="svg3359"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tiling.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="cs-tiling.svg">
   <metadata
      id="metadata3484">
     <rdf:RDF>
@@ -35,18 +35,44 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1005"
+     inkscape:window-height="1011"
      id="namedview3482"
      showgrid="false"
      inkscape:zoom="4.2447917"
-     inkscape:cx="105.87167"
+     inkscape:cx="55.221364"
      inkscape:cy="40.444346"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3359" />
   <defs
      id="defs3361">
+    <linearGradient
+       stop-color="#fff"
+       id="linearGradient887">
+      <stop
+         id="stop883"
+         offset="0"
+         style="stop-color:#fffffe;stop-opacity:1" />
+      <stop
+         id="stop885"
+         offset="1"
+         stop-opacity="0"
+         style="stop-color:#fffffe;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       stop-color="#fff"
+       id="linearGradient881">
+      <stop
+         id="stop877"
+         offset="0"
+         style="stop-color:#fffffe;stop-opacity:1" />
+      <stop
+         id="stop879"
+         offset="1"
+         stop-opacity="0"
+         style="stop-color:#fffffe;stop-opacity:0" />
+    </linearGradient>
     <linearGradient
        id="a"
        stop-color="#fff">
@@ -104,7 +130,7 @@
     <linearGradient
        id="n"
        y2="-24"
-       xlink:href="#a"
+       xlink:href="#linearGradient887"
        gradientUnits="userSpaceOnUse"
        x2="32"
        gradientTransform="translate(0,-64)"
@@ -290,7 +316,7 @@
        gradientTransform="translate(-4.2806406e-7,-64)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3873"
-       xlink:href="#a-6"
+       xlink:href="#linearGradient881"
        inkscape:collect="always" />
   </defs>
   <g

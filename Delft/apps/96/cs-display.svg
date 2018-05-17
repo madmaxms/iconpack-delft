@@ -38,9 +38,9 @@
      inkscape:window-height="1011"
      id="namedview108"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="16.712261"
-     inkscape:cy="32.76167"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="22.957224"
+     inkscape:cy="47.352029"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -49,13 +49,13 @@
      id="defs48">
     <linearGradient
        stop-color="#fff"
-       id="linearGradient921">
+       id="linearGradient4624">
       <stop
-         id="stop917"
+         id="stop4620"
          offset="0"
          style="stop-color:#fffffe;stop-opacity:1" />
       <stop
-         id="stop919"
+         id="stop4622"
          offset="1"
          stop-opacity="0"
          style="stop-color:#fffffe;stop-opacity:0" />
@@ -188,7 +188,7 @@
     <linearGradient
        id="b"
        y2="52.101"
-       xlink:href="#linearGradient921"
+       xlink:href="#linearGradient4624"
        gradientUnits="userSpaceOnUse"
        x2="19.942"
        gradientTransform="matrix(0 -.65823 .65616 0 -10.186 94.127)"

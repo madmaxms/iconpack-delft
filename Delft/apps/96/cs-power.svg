@@ -39,14 +39,40 @@
      id="namedview115"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="48.007152"
-     inkscape:cy="31.287782"
+     inkscape:cx="15.701299"
+     inkscape:cy="48.347333"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg113" />
   <defs
      id="defs53">
+    <linearGradient
+       stop-color="#fff"
+       id="linearGradient946">
+      <stop
+         id="stop942"
+         offset="0"
+         style="stop-color:#fffffe;stop-opacity:1" />
+      <stop
+         id="stop944"
+         offset="1"
+         stop-opacity="0"
+         style="stop-color:#fffffe;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       stop-color="#fff"
+       id="linearGradient940">
+      <stop
+         id="stop936"
+         offset="0"
+         style="stop-color:#fffffe;stop-opacity:1" />
+      <stop
+         id="stop938"
+         offset="1"
+         stop-opacity="0"
+         style="stop-color:#fffffe;stop-opacity:0" />
+    </linearGradient>
     <linearGradient
        stop-color="#fff"
        id="linearGradient934">
@@ -131,7 +157,7 @@
     <linearGradient
        id="q"
        y2="24"
-       xlink:href="#a"
+       xlink:href="#linearGradient946"
        gradientUnits="userSpaceOnUse"
        x2="26"
        gradientTransform="matrix(.2381 0 0 1 47.19 0)"
@@ -140,7 +166,7 @@
     <linearGradient
        id="p"
        y2="72.022"
-       xlink:href="#a"
+       xlink:href="#linearGradient940"
        gradientUnits="userSpaceOnUse"
        x2="26"
        gradientTransform="matrix(.57143 0 0 1 50.857 0)"
@@ -204,12 +230,11 @@
       <stop
          offset="0"
          id="stop34"
-         style="stop-color:#225600;stop-opacity:1" />
+         style="stop-color:#225501;stop-opacity:1" />
       <stop
          stop-opacity="0"
          offset="1"
-         id="stop36"
-         style="stop-color:#225600;stop-opacity:0" />
+         id="stop36" />
     </linearGradient>
     <radialGradient
        id="e"
@@ -326,10 +351,10 @@
      fill="#aad400"
      id="path73" />
   <path
-     d="m 8,36 v 44 h 2 V 36 Z m 78,0 v 44 h 2 V 36 Z"
-     id="path75"
-     inkscape:connector-curvature="0"
-     style="opacity:0.3;fill:#aad400" />
+     opacity=".3"
+     d="m8 36v44h2v-44h-2zm78 0v44h2v-44h-2z"
+     fill="#aad400"
+     id="path75" />
   <rect
      rx="2"
      ry="2"
@@ -422,7 +447,8 @@
      y="16"
      x="86"
      fill="#fff"
-     id="rect103" />
+     id="rect103"
+     style="fill:#fffffe;fill-opacity:1" />
   <path
      opacity=".2"
      d="m10.156 6.3438c-0.3013 0.0968-0.5962 0.2041-0.8748 0.3437-0.557 0.2792-1.06 0.6657-1.5 1.0937-0.2199 0.2141-0.4093 0.4419-0.5937 0.6876-0.1844 0.2456-0.3554 0.5077-0.5 0.7812-0.1401 0.265-0.2761 0.5247-0.375 0.812-0.0104 0.031-0.0214 0.064-0.0313 0.094-0.0904 0.278-0.1388 0.58-0.1874 0.875-0.0524 0.318-0.0938 0.634-0.0938 0.969v4h1v-5c0-0.364 0.0521-0.721 0.125-1.0625 0.0234-0.1095 0.0634-0.2059 0.0938-0.3125 0.0266-0.0944 0.0306-0.1893 0.0624-0.2812 0.0077-0.022 0.0233-0.0407 0.0313-0.0626 0.0756-0.2092 0.1802-0.4302 0.2813-0.625 0.0572-0.1079 0.1227-0.2094 0.1874-0.3124 0.0241-0.0392 0.0375-0.0867 0.0626-0.125 0.0941-0.141 0.2049-0.276 0.3124-0.4063 0.15254-0.18586 0.32207-0.36982 0.5-0.53125 0.099219-0.088888 0.20633-0.1692 0.3125-0.25 0.11273-0.086487 0.22336-0.1733 0.34375-0.25 0.031457-0.01999 0.061817-0.0432 0.09375-0.0625 0.00738-0.0045 0.02384 0.0044 0.03125 0 0.2321-0.1388 0.4626-0.2748 0.7186-0.375zm75.688 0c0.2562 0.10022 0.48671 0.23627 0.71875 0.375 0.0074 0.0044 0.02385-0.0045 0.03125 0 0.10818 0.065386 0.20993 0.1456 0.3125 0.21875 0.15241 0.10931 0.29911 0.21819 0.4375 0.34375 0.01127 0.0101 0.02008 0.02105 0.03125 0.03125 0.16561 0.153 0.32558 0.32555 0.46875 0.5 0.10758 0.13026 0.21839 0.26528 0.3125 0.40625 0.06073 0.0929 0.1329 0.18404 0.1875 0.28125 0.04596 0.080046 0.08342 0.1672 0.125 0.25 0.08037 0.1638 0.15601 0.35751 0.21875 0.53125 0.0079 0.02181 0.02355 0.04055 0.03125 0.0625 0.06787 0.19609 0.1121 0.38686 0.15625 0.59375 0.073 0.3416 0.125 0.6986 0.125 1.0626v5h1v-4c0-0.33472-0.04135-0.6507-0.09375-0.96875-0.0487-0.2956-0.09704-0.59692-0.1875-0.875-0.01-0.031-0.021-0.063-0.031-0.094-0.099-0.2869-0.235-0.5466-0.376-0.8116-0.144-0.2735-0.315-0.5356-0.5-0.7812-0.184-0.2457-0.373-0.4735-0.593-0.6876-0.44-0.428-0.943-0.8145-1.5-1.0937-0.279-0.1396-0.574-0.2469-0.875-0.3437zm-79.844 73.656v4c0 3.324 2.676 6 6 6h72c3.324 0 6-2.676 6-6v-4h-1v3c0 2.7818-2.2182 5-5 5h-72c-2.7818 0-5-2.218-5-5v-3h-1z"
