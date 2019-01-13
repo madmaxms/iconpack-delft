@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,14 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   height="16"
-   width="16"
    version="1.1"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="folder-symbolic.svg">
-  <defs
-     id="defs10" />
+   width="16"
+   height="16"
+   id="svg7384"
+   sodipodi:docname="folder-open-symbolic.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,14 +26,15 @@
      inkscape:window-height="1010"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="22.627417"
-     inkscape:cx="-0.97792895"
-     inkscape:cy="10.571859"
+     inkscape:zoom="14.75"
+     inkscape:cx="0.13559322"
+     inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384"
-     showguides="false" />
+     inkscape:current-layer="svg7384" />
+  <defs
+     id="defs10" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -53,15 +50,15 @@
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
-     id="rect3845-3-6-7"
+     d="m 1.0004965,9 v 5.142526 C 1.0004965,14.539206 1.4571625,15 1.8755035,15 H 14.125553 c 0.384321,0 0.874352,-0.450851 0.874352,-0.857474 L 15.000447,9 Z"
      style="fill:#bebebe;fill-opacity:1"
-     d="m 1.0000248,7 4.717e-4,7.142526 C 1.0005227,14.539206 1.4571625,15 1.8755035,15 H 14.125553 c 0.384321,0 0.874352,-0.450851 0.874352,-0.857474 L 14.999975,7 Z"
+     id="rect3845-3-6-7"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="csssccc" />
   <path
+     d="M 1.875007,2 C 1.341656,2 1,2.3631153 1,2.8571921 V 8 h 13.999905 l 5.42e-4,-3.1435324 C 15.002547,4.3175648 14.614779,3.9990893 14.125554,3.9996615 L 7.76,3.99971 5.824497,2 Z"
+     style="fill:#bebebe;fill-opacity:1;stroke-width:1.00003624"
      id="rect3845-3-6-5"
-     style="fill:#bebebe;fill-opacity:1"
-     d="M 1.875007,2.000435 C 1.341656,2.000435 1.1498133,2.3867864 1,2.857565 V 6 h 13.999905 l 5.42e-4,-1.1433045 c 0.0021,-0.5388637 -0.385668,-0.8567472 -0.874893,-0.856744 L 7.76,4 5.824497,2.000435 Z"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cscccsccc" />
+     sodipodi:nodetypes="ssccccccs" />
 </svg>
