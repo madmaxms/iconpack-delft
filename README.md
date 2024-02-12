@@ -14,7 +14,6 @@ Including:
 * DIY Layout Creator (DIYLC)
 * Gnome Timer
 * Docker Desktop Manager
-* Element Desktop (Matrix Client)
 * ONLYOFFICE
 * Thunderbird (Update with new bird logo)
 * FreeTube
