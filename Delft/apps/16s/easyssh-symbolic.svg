@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   sodipodi:docname="easyssh-symbolic.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <path
+     id="path1"
+     style="opacity:1;fill:#bebebe;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="M 8 0 A 8 8 0 0 0 0 8 A 8 8 0 0 0 8 16 A 8 8 0 0 0 16 8 A 8 8 0 0 0 8 0 z M 8 1 A 7 7 0 0 1 15 8 A 7 7 0 0 1 8 15 A 7 7 0 0 1 1 8 A 7 7 0 0 1 8 1 z " />
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="4.2426407"
+     inkscape:cy="27.577164"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="g1"
+     transform="matrix(0.1634896,0,0,0.1634896,9.968378,11.437447)">
+    <path
+       style="font-weight:bold;font-size:35.7366px;font-family:'Noto Sans Arabic UI';-inkscape-font-specification:'Noto Sans Arabic UI Bold';opacity:1;fill:#bebebe;fill-opacity:1;stroke-width:3.82892;stroke-linecap:round;stroke-linejoin:round"
+       d="m -34.335312,-22.594369 c 5.824002,0 9.37067,-2.805068 9.37067,-7.081086 0,-8.141539 -12.618671,-5.575928 -12.618671,-10.194028 0,-1.710407 1.680001,-2.736651 4.666668,-2.736651 1.866668,0 4.106668,0.37629 5.861336,1.060453 l 1.306667,-3.386606 c -2.053334,-0.889413 -4.629336,-1.368326 -6.944003,-1.368326 -5.786669,0 -9.669337,2.839275 -9.669337,7.081086 0,7.799456 12.581338,5.50751 12.581338,10.091402 0,1.676199 -1.530667,2.736651 -4.480001,2.736651 -2.090668,0 -4.778669,-0.478913 -7.205337,-1.47095 l -1.306667,3.420814 c 2.538668,1.128869 5.488002,1.847241 8.437337,1.847241 z m -1.306667,4.173393 h 4.293335 v -5.952217 h -4.293335 z m 0,-26.100814 h 4.293335 v -6.08905 h -4.293335 z m 16.245354,27.400724 H 0.01671401 v -3.762896 H -19.396625 Z m 23.893341,-13.785883 6.533335,-10.878189 -1.082666,0.03421 5.898668,10.878191 4.554669,-1.847241 -7.877337,-13.683257 H 8.790051 l -7.91466979,13.991131 z"
+       id="text5-4"
+       aria-label="$ _^" />
+    <path
+       id="path7"
+       style="display:inline;opacity:1;fill:#bebebe;fill-opacity:1;stroke-width:3.3469;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="elipse"
+       d="M 30.859375,-16.377583 A 86.002531,57.658265 0 0 1 -29.513672,0.42124516 86.002531,57.658265 0 0 1 -53.140625,-1.9127388 v 6.921875 a 86.002531,57.658265 0 0 0 23.626953,2.310547 86.002531,57.658265 0 0 0 60.373047,-16.705078 z" />
+  </g>
+</svg>

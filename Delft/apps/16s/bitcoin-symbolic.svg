@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   sodipodi:docname="bitcoin-symbolic.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="15.061925"
+     inkscape:cx="6.108117"
+     inkscape:cy="5.9089393"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     d="M 14.012178,6.4322977 C 14.26369,4.7510796 12.983626,3.847297 11.233312,3.24438 L 11.801088,0.966957 10.414814,0.621474 9.8620412,2.838882 C 9.4976061,2.748072 9.1233002,2.662389 8.7513633,2.577499 L 9.3080841,0.345483 7.9225994,0 7.3544282,2.276633 C 7.0527719,2.207933 6.7566439,2.140019 6.4692029,2.068554 l 0.0016,-0.0071 -1.911803,-0.477359 -0.368778,1.480641 c 0,0 1.028551,0.235718 1.006835,0.250327 0.561459,0.140167 0.662932,0.511709 0.645954,0.806258 l -0.646743,2.594477 c 0.03869,0.00987 0.08884,0.024085 0.144115,0.046196 -0.0462,-0.01145 -0.09555,-0.024085 -0.146485,-0.036325 l -0.906546,3.634479 c -0.0687,0.17057 -0.242825,0.426425 -0.635294,0.329295 0.01382,0.02014 -1.007625,-0.251512 -1.007625,-0.251512 l -0.688202,1.586852 1.804013,0.44972 c 0.335611,0.0841 0.664511,0.172149 0.988278,0.255065 l -0.573699,2.303482 1.384695,0.345483 0.568171,-2.279002 c 0.378255,0.102657 0.745453,0.197418 1.104756,0.286652 L 6.6662269,15.654517 8.0525009,16 8.6261998,13.700861 c 2.3638922,0.447351 4.1414502,0.26691 4.8896672,-1.871135 0.602917,-1.721491 -0.03001,-2.7145075 -1.273745,-3.362041 0.905757,-0.208869 1.588036,-0.8046788 1.770056,-2.0353873 z m -3.167386,4.4415273 c -0.428399,1.721491 -3.3269011,0.790859 -4.2666141,0.55751 L 7.3394239,8.3796363 C 8.2791376,8.6141697 11.292537,9.0784986 10.844792,10.873825 Z M 11.273585,6.4074229 C 10.882696,7.9733485 8.470239,7.1777509 7.687671,6.9827012 L 8.377847,4.2148903 c 0.7825679,0.1950497 3.302816,0.5590899 2.895738,2.1925326 z"
+     fill="#ffffff"
+     id="path2"
+     style="fill:#bebebe;fill-opacity:1;stroke-width:0.394837" />
+</svg>
